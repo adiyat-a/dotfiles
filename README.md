@@ -4,13 +4,13 @@
 
 <h2>:green_book: About</h2>
 
-- OS: [****`Debian Bookworm`****](https://www.debian.org/releases/bookworm/)
+- OS: [**`Debian Bookworm`**](https://www.debian.org/releases/bookworm/)
 - Shell: [**`Bash`**](https://www.gnu.org/software/bash/)
 - Custom Shell Prompt: [**`Oh My Posh`**](https://ohmyposh.dev/)
 - Terminal: [**`Kitty`**](https://sw.kovidgoyal.net/kitty/)
-- Main Code Editor: [**`Neovim`**](https://neovim.io/)*
+- Main Code Editor: [**`Neovim*`**](https://neovim.io/)
 - Window Manager: [**`BSPWM`**](https://github.com/baskerville/bspwm)
-- Status Bar: [**`Lemonbar`**](https://gitlab.com/protesilaos/lemonbar-xft)** with [**`Succade`**](https://github.com/domsson/succade)
+- Status Bar: [**`Lemonbar**`**](https://gitlab.com/protesilaos/lemonbar-xft) with [**`Succade`**](https://github.com/domsson/succade)
 - Lockscreen Software: [**`i3lock-color`**](https://github.com/Raymo111/i3lock-color)
 - Hotkey Daemon: [**`Sxhkd`**](https://github.com/baskerville/sxhkd)
 - App Launcher: [**`Rofi`**](https://github.com/davatorium/rofi)
