@@ -2,7 +2,8 @@
 
 <p align="center">
 
-![GitHub repo size](https://img.shields.io/github/repo-size/bearbaka/dotfiles?style=for-the-badge)
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/bearbaka/dotfiles?style=for-the-badge">
+
 </p>
 
 ![System Info](.github/Screenshots/Screenshot_1.png)
@@ -13,9 +14,9 @@
 - Shell: [**`Bash`**](https://www.gnu.org/software/bash/)
 - Custom Shell Prompt: [**`Oh My Posh`**](https://ohmyposh.dev/)
 - Terminal: [**`Kitty`**](https://sw.kovidgoyal.net/kitty/)
-- Main Code Editor: [**`Neovim`**](https://neovim.io/)*
+- Main Code Editor: [**`Neovim`**](https://neovim.io/)\*
 - Window Manager: [**`BSPWM`**](https://github.com/baskerville/bspwm)
-- Status Bar: [**`Lemonbar`**](https://gitlab.com/protesilaos/lemonbar-xft)** with [**`Succade`**](https://github.com/domsson/succade)
+- Status Bar: [**`Lemonbar`**](https://gitlab.com/protesilaos/lemonbar-xft)** with [**`Succade`\*\*](https://github.com/domsson/succade)
 - Lockscreen Software: [**`i3lock-color`**](https://github.com/Raymo111/i3lock-color)
 - Hotkey Daemon: [**`Sxhkd`**](https://github.com/baskerville/sxhkd)
 - App Launcher: [**`Rofi`**](https://github.com/davatorium/rofi)
@@ -29,17 +30,18 @@
 - GTK Icon Theme: [**`Gruvbox Plus Dark`**](https://github.com/SylEleuth/gruvbox-plus-icon-pack)
 - GTK Theme: [**`Colloid Green Dark Gruvbox`**](https://github.com/vinceliuice/Colloid-gtk-theme)
 <p>
+
 * - I use Neovim with my own config, no forks.<br>
 
 > Important:
 > Neovim config is stored on another repo [**AtomVim**](https://github.com/bearbaka/AtomVim).
 
-** - In order to use Nerd Font with lemonbar, I use fork of lemonbar from gitlab with xft support. Succade is a lemonbar manager, helps configure lemonbar easier, without bash script.
+\*\* - In order to use Nerd Font with lemonbar, I use fork of lemonbar from gitlab with xft support. Succade is a lemonbar manager, helps configure lemonbar easier, without bash script.
 
 > Note:
 > Wallpapers are from wallhaven website.
-</p>
 
+</p>
 
 <h2>:stars: Key Features</h2>
 
@@ -51,7 +53,9 @@
 
 - For newcomers to Linux, I suggest picking the Debian Stable distro. But before starting to use any distro, first read the suggestions for the corresponding distro about how to not break it.
 - Before starting developing custom Linux environment like mine, I recommend checking the [**awesome-ricing**](https://github.com/fosslife/awesome-ricing) to get to know what softwares are used for custom environments.
-----------
+
+---
+
 <p>
 Feel free to steal some parts/ideas of my build for your own one.
 </p>
