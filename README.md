@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# My-Dotfiles
-My files with dot.
-=======
 <h1 align="center">:penguin: dotfiles</h1>
 
 ![System Info](.github/Screenshots/Screenshot_1.png)
@@ -63,4 +59,3 @@ Feel free to steal some parts/ideas of my build for your own one.
 ![Screenshot 3](.github/Screenshots/Screenshot_4.png)
 ![Screenshot 4](.github/Screenshots/Screenshot_5.png)
 ![Screenshot 5](.github/Screenshots/Screenshot_6.png)
->>>>>>> 203123a (First time adding files & Updated README)
