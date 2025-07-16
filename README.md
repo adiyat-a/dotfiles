@@ -1,5 +1,10 @@
 <h1 align="center">:penguin: dotfiles</h1>
 
+<p align="center">
+
+![GitHub repo size](https://img.shields.io/github/repo-size/bearbaka/dotfiles?style=for-the-badge)
+</p>
+
 ![System Info](.github/Screenshots/Screenshot_1.png)
 
 <h2>:green_book: About</h2>
