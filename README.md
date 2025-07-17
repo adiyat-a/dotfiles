@@ -35,15 +35,13 @@
 - GTK Theme: [**`Colloid Green Dark Gruvbox`**](https://github.com/vinceliuice/Colloid-gtk-theme)
 <p>
 
-* - I use Neovim with my own configuration, no forks.<br>
-
-> Important:
-> Neovim dotfiles are stored on another repository [**AtomVim**](https://github.com/bearbaka/AtomVim).
+\* - I use Neovim with my own configuration, no forks.<br>
+> [!IMPORTANT]
+> **Neovim dotfiles are stored on another repository [**AtomVim**](https://github.com/bearbaka/AtomVim).**
 
 \*\* - In order to use Nerd Font with lemonbar, I use a fork of lemonbar from GitLab with XFT support. Succade is a lemonbar manager that helps configure lemonbar easier, without a Bash script.
-
-> Note:
-> Wallpapers are from the wallhaven website.
+> [!NOTE]
+> **Wallpapers are from the wallhaven website.**
 
 </p>
 
@@ -55,14 +53,13 @@
 
 <h2>:bulb: Personal Suggestions</h2>
 
-- For newcomers to Linux, I suggest picking the Debian Stable distro. But before starting to use any distro, first read about how to not break it.
+- For newcomers to Linux, I suggest picking the Debian Stable. But no matter which distributive you pick, first read about how to not break it, before using.
 - Before starting to develop a custom Linux environment like mine, I recommend checking [**awesome-ricing**](https://github.com/fosslife/awesome-ricing) to get to know what software is used for custom environments.
 
 ---
 
-<p>
-Feel free to steal some parts/ideas of my build for your own one.
-</p>
+> [!IMPORTANT]
+> **There is no install script for these dotfiles in this repository. But feel free to steal some parts/ideas of my build for your own one.**
 <h3 align=center>If you found this repository helpful, please give it a :star:</h3>
 
 <h2>:camera: More Screenshots</h2>
