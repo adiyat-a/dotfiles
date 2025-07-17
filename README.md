@@ -2,7 +2,15 @@
 
 <p align="center">
 
+<img alt="GitHub Created At" src="https://img.shields.io/github/created-at/bearbaka/dotfiles?style=for-the-badge">
+<img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/bearbaka/dotfiles?display_date=published_at&style=for-the-badge">
+<img alt="GitHub commits since latest release" src="https://img.shields.io/github/commits-since/bearbaka/dotfiles/latest?sort=date&style=for-the-badge">
+<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/bearbaka/dotfiles?style=for-the-badge">
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/bearbaka/dotfiles?style=for-the-badge">
+<img alt="GitHub License" src="https://img.shields.io/github/license/bearbaka/dotfiles?style=for-the-badge">
+
+
+
 
 </p>
 
