@@ -37,35 +37,35 @@
 - GTK Theme: [**`Colloid Green Dark Gruvbox`**](https://github.com/vinceliuice/Colloid-gtk-theme)
 <p>
 
-* - I use Neovim with my own config, no forks.<br>
+* - I use Neovim with my own configuration, no forks.<br>
 
 > Important:
-> Neovim config is stored on another repo [**AtomVim**](https://github.com/bearbaka/AtomVim).
+> Neovim dotfiles are stored on another repository [**AtomVim**](https://github.com/bearbaka/AtomVim).
 
-\*\* - In order to use Nerd Font with lemonbar, I use fork of lemonbar from gitlab with xft support. Succade is a lemonbar manager, helps configure lemonbar easier, without bash script.
+\*\* - In order to use Nerd Font with lemonbar, I use a fork of lemonbar from GitLab with XFT support. Succade is a lemonbar manager that helps configure lemonbar easier, without a Bash script.
 
 > Note:
-> Wallpapers are from wallhaven website.
+> Wallpapers are from the wallhaven website.
 
 </p>
 
 <h2>:stars: Key Features</h2>
 
-- Succade configured with Nerd Font & bash scripts that use Succade's API to underline & change fg of text for personal needs. Examples: `workspaces.sh`, `battery.sh`, `bluetooth.sh`.
-- Automatic bluetooth pairing & repeated reconnection using bash scripting & bluetoothctl `sxhkd/bluetooth.sh`.
-- Bash script optimize programs for specific monitor resolutions `bspwm/launch.sh`. Every time the bspwm launches (every boot), this script checks which display is now active using xrandr & then creates symbolic links to config files for corresponding resolution. `.builtin` files are for 2880x1800 14" & `.external` files are for 1920x1080 24".
+- Succade configured with Nerd Font & Bash scripts that use Succade's API to underline & change the foreground of text for personal needs. Examples: `workspaces.sh`, `battery.sh`, `bluetooth.sh`.
+- Automatic Bluetooth pairing & repeated reconnection using Bash scripting & Bluetoothctl, `sxhkd/bluetooth.sh`.
+- Bash script, `bspwm/launch.sh` which optimizes programs for specific monitor resolutions. Every time the BSPWM launches (every boot), this script checks which display is now active using xrandr & then creates symbolic links to configuration files for the corresponding resolution. `.builtin` files are for 2880x1800 14" & `.external` files are for 1920x1080 24".
 
 <h2>:bulb: Personal Suggestions</h2>
 
 - For newcomers to Linux, I suggest picking the Debian Stable distro. But before starting to use any distro, first read about how to not break it.
-- Before starting developing custom Linux environment like mine, I recommend checking the [**awesome-ricing**](https://github.com/fosslife/awesome-ricing) to get to know what softwares are used for custom environments.
+- Before starting to develop a custom Linux environment like mine, I recommend checking [**awesome-ricing**](https://github.com/fosslife/awesome-ricing) to get to know what software is used for custom environments.
 
 ---
 
 <p>
 Feel free to steal some parts/ideas of my build for your own one.
 </p>
-<h3 align=center>If you found this repo helpful please give it a :star:</h3>
+<h3 align=center>If you found this repository helpful, please give it a :star:</h3>
 
 <h2>:camera: More Screenshots</h2>
 
