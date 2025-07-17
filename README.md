@@ -37,7 +37,7 @@
 
 \* - I use Neovim with my own configuration, no forks.<br>
 > [!IMPORTANT]
-> **Neovim dotfiles are stored on another repository [**AtomVim**](https://github.com/bearbaka/AtomVim).**
+> **Neovim dotfiles are stored in another repository [**AtomVim**](https://github.com/bearbaka/AtomVim).**
 
 \*\* - In order to use Nerd Font with lemonbar, I use a fork of lemonbar from GitLab with XFT support. Succade is a lemonbar manager that helps configure lemonbar easier, without a Bash script.
 > [!NOTE]
