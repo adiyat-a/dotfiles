@@ -9,9 +9,6 @@
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/bearbaka/dotfiles?style=for-the-badge">
 <img alt="GitHub License" src="https://img.shields.io/github/license/bearbaka/dotfiles?style=for-the-badge">
 
-
-
-
 </p>
 
 ![System Info](.github/Screenshots/Screenshot_1.png)
@@ -35,6 +32,7 @@
 - Media Player: [**`MPV`**](https://mpv.io/)
 - Screenshot Tool: [**`Flameshot`**](https://flameshot.org/)
 - Main Font: [**`JetBrainsMono Nerd Font`**](https://github.com/ryanoasis/nerd-fonts)
+- Color Scheme: [**`Gruvbox`**](https://github.com/morhetz/gruvbox)
 - GTK Icon Theme: [**`Gruvbox Plus Dark`**](https://github.com/SylEleuth/gruvbox-plus-icon-pack)
 - GTK Theme: [**`Colloid Green Dark Gruvbox`**](https://github.com/vinceliuice/Colloid-gtk-theme)
 <p>
