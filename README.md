@@ -59,7 +59,7 @@
 
 <h2>:bulb: Personal Suggestions</h2>
 
-- For newcomers to Linux, I suggest picking the Debian Stable distro. But before starting to use any distro, first read the suggestions for the corresponding distro about how to not break it.
+- For newcomers to Linux, I suggest picking the Debian Stable distro. But before starting to use any distro, first read about how to not break it.
 - Before starting developing custom Linux environment like mine, I recommend checking the [**awesome-ricing**](https://github.com/fosslife/awesome-ricing) to get to know what softwares are used for custom environments.
 
 ---
