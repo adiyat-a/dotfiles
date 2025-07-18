@@ -6,24 +6,6 @@
 # See the COPYING file for copyright information.
 # modernized it, so that it now changes color of foreground to take attention on mem
 
-# TODO:
-#    - cleanup!
-#    - percentage_used variables
-#    - precision control (use dc instead of builtin)
-#    - differenciate between GiB and GB, etc
-
-if [[ -z "$1" ]]; then
-	if [[ $mb_used -lt 4000 ]]; then
-		set -- '%{F#fbf1c7}$mb_used MiB'
-	elif [[ $mb_used -lt 10000 ]]; then
-		set -- '%{F#fabd2f}$mb_used MiB'
-	elif [[ $mb_used -lt 20000 ]]; then
-		set -- '%{F#fe8019}$mb_used MiB'
-	else
-		set -- '%{F#fb4934}$mb_used MiB'
-	fi
-fi
-
 get_mem_linux() {
 	while IFS=: read -r set data; do
 		data="${data%%kB}"
@@ -90,4 +72,12 @@ FreeBSD*) get_mem_freebsd ;;
 	;;
 esac
 
-eval echo "$1"
+if [[ $mb_used -lt 4000 ]]; then
+	echo "%{F#fbf1c7}$mb_used MiB"
+elif [[ $mb_used -lt 10000 ]]; then
+	echo "%{F#fabd2f}$mb_used MiB"
+elif [[ $mb_used -lt 20000 ]]; then
+	echo "%{F#fe8019}$mb_used MiB"
+else
+	echo "%{F#fb4934}$mb_used MiB"
+fi
