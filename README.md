@@ -11,6 +11,9 @@
 
 ![System Info](.github/Screenshots/Screenshot_1.png)
 
+> [!NOTE]
+> For more Screenshots, see [SCREENSHOTS.md](SCREENSHOTS.md).
+
 <h2>:green_book: About</h2>
 
 - OS: [**`Debian Bookworm`**](https://www.debian.org/releases/bookworm/)
@@ -36,10 +39,12 @@
 <p>
 
 \* - I use Neovim with my own configuration, no forks.<br>
+
 > [!IMPORTANT]
 > **Neovim dotfiles are stored in another repository [**AtomVim**](https://github.com/bearbaka/AtomVim).**
 
 \*\* - In order to use Nerd Font with lemonbar, I use a fork of lemonbar from GitLab with XFT support. Succade is a lemonbar manager that helps configure lemonbar easier, without a Bash script.
+
 > [!NOTE]
 > **Wallpapers are from the wallhaven website.**
 
@@ -47,9 +52,9 @@
 
 <h2>:stars: Key Features</h2>
 
-- Succade configured with Nerd Font & Bash scripts that use Succade's API to underline & change the foreground of text for personal needs. Examples: `workspaces.sh`, `battery.sh`, `bluetooth.sh`.
-- Automatic Bluetooth pairing & repeated reconnection using Bash scripting & Bluetoothctl, `sxhkd/bluetooth.sh`.
-- Bash script, `bspwm/launch.sh` which optimizes programs for specific monitor resolutions. Every time the BSPWM launches (every boot), this script checks which display is now active using xrandr & then creates symbolic links to configuration files for the corresponding resolution. `.builtin` files are for 2880x1800 14" & `.external` files are for 1920x1080 24".
+- Succade configured with Nerd Font & Bash scripts that use Succade's API to underline & change the foreground of text for personal needs. Examples: [`workspaces.sh`](succade/workspaces.sh), [`battery.sh`](succade/battery.sh), [`bluetooth.sh`](succade/bluetooth.sh).
+- Automatic Bluetooth pairing & repeated reconnection using Bash scripting & Bluetoothctl, [`sxhkd/bluetooth.sh`](sxhkd/bluetooth.sh).
+- Bash script, [`bspwm/launch.sh`](bspwm/launch.sh) which optimizes programs for specific monitor resolutions. Every time the BSPWM launches (every boot), this script checks which display is now active using xrandr & then creates symbolic links to configuration files for the corresponding resolution. `.builtin` files are for 2880x1800 14" & `.external` files are for 1920x1080 24".
 
 <h2>:bulb: Personal Suggestions</h2>
 
@@ -60,12 +65,5 @@
 
 > [!IMPORTANT]
 > **There is no install script for these dotfiles in this repository. But feel free to steal some parts/ideas of my build for your own one.**
+
 <h3 align=center>If you found this repository helpful, please give it a :star:</h3>
-
-<h2>:camera: More Screenshots</h2>
-
-![Screenshot 1](.github/Screenshots/Screenshot_2.png)
-![Screenshot 2](.github/Screenshots/Screenshot_3.png)
-![Screenshot 3](.github/Screenshots/Screenshot_4.png)
-![Screenshot 4](.github/Screenshots/Screenshot_5.png)
-![Screenshot 5](.github/Screenshots/Screenshot_6.png)
