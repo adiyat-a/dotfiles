@@ -2,7 +2,6 @@
 
 <p align="center">
 
-
 <img alt="GitHub Created At" src="https://img.shields.io/github/created-at/bearbaka/dotfiles?style=for-the-badge">
 <img alt="GitHub Release" src="https://img.shields.io/github/v/release/bearbaka/dotfiles?sort=date&display_name=release&style=for-the-badge">
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/bearbaka/dotfiles?style=for-the-badge">
