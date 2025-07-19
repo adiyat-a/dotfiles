@@ -9,7 +9,7 @@
 
 </p>
 
-![System Info](.github/Screenshots/Screenshot_1.png)
+![System Info](.github/screenshots/screenshot_1.png)
 
 > [!NOTE]
 > For more Screenshots, see [SCREENSHOTS.md](SCREENSHOTS.md).
