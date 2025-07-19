@@ -55,6 +55,8 @@
 - Succade configured with Nerd Font & Bash scripts that use Succade's API to underline & change the foreground of text for personal needs. Examples: [`workspaces.sh`](succade/workspaces.sh), [`battery.sh`](succade/battery.sh), [`bluetooth.sh`](succade/bluetooth.sh).
 - Automatic Bluetooth pairing & repeated reconnection using Bash scripting & Bluetoothctl, [`sxhkd/bluetooth.sh`](sxhkd/bluetooth.sh).
 - Bash script, [`bspwm/launch.sh`](bspwm/launch.sh) which optimizes programs for specific monitor resolutions. Every time the BSPWM launches (every boot), this script checks which display is now active using xrandr & then creates symbolic links to configuration files for the corresponding resolution. `.builtin` files are for 2880x1800 14" & `.external` files are for 1920x1080 24".
+> [!IMPORTANT]
+> **There is no install script for these dotfiles in this repository. But feel free to take some parts/ideas of my build for your own one.**
 
 ## :bulb: Personal Suggestions
 
@@ -63,7 +65,4 @@
 
 ---
 
-> [!IMPORTANT]
-> **There is no install script for these dotfiles in this repository. But feel free to take some parts/ideas of my build for your own one.**
-
-<h2 align=center>If you found this repository helpful, please give it a :star:</h2>
+<p align=center style="font-size:32px">If you found this repository helpful, please give it a :star:</p>
