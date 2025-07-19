@@ -12,7 +12,7 @@
 ![System Info](.github/screenshots/screenshot_1.png)
 
 > [!NOTE]
-> For more Screenshots, see [SCREENSHOTS.md](SCREENSHOTS.md).
+> **For more Screenshots, see [SCREENSHOTS.md](SCREENSHOTS.md).**
 
 ## :green_book: About
 
@@ -65,4 +65,4 @@
 
 ---
 
-<p align=center style="font-size:50px">If you found this repository helpful, please give it a :star:</p>
+<h3 align=center>If you found this repository helpful, please give it a :star:</h3>
