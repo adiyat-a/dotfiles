@@ -66,4 +66,4 @@
 > [!IMPORTANT]
 > **There is no install script for these dotfiles in this repository. But feel free to take some parts/ideas of my build for your own one.**
 
-<h1 align=center>If you found this repository helpful, please give it a :star:</h1>
+<h2 align=center>If you found this repository helpful, please give it a :star:</h2>
