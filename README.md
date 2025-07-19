@@ -65,4 +65,4 @@
 
 ---
 
-<p align=center style="font-size:32px">If you found this repository helpful, please give it a :star:</p>
+<p align=center style="font-size:50px">If you found this repository helpful, please give it a :star:</p>
