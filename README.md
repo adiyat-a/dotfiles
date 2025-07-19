@@ -14,7 +14,7 @@
 > [!NOTE]
 > For more Screenshots, see [SCREENSHOTS.md](SCREENSHOTS.md).
 
-<h2>:green_book: About</h2>
+## :green_book: About
 
 - OS: [**`Debian Bookworm`**](https://www.debian.org/releases/bookworm/)
 - Shell: [**`Bash`**](https://www.gnu.org/software/bash/)
@@ -41,7 +41,7 @@
 \* - I use Neovim with my own configuration, no forks.<br>
 
 > [!IMPORTANT]
-> **Neovim dotfiles are stored in another repository [**AtomVim**](https://github.com/bearbaka/AtomVim).**
+> **Neovim dotfiles are stored in another repository ([**atom-vim**](https://github.com/bearbaka/atom-vim)).**
 
 \*\* - In order to use Nerd Font with lemonbar, I use a fork of lemonbar from GitLab with XFT support. Succade is a lemonbar manager that helps configure lemonbar easier, without a Bash script.
 
@@ -50,13 +50,13 @@
 
 </p>
 
-<h2>:stars: Key Features</h2>
+## :stars: Key Features
 
 - Succade configured with Nerd Font & Bash scripts that use Succade's API to underline & change the foreground of text for personal needs. Examples: [`workspaces.sh`](succade/workspaces.sh), [`battery.sh`](succade/battery.sh), [`bluetooth.sh`](succade/bluetooth.sh).
 - Automatic Bluetooth pairing & repeated reconnection using Bash scripting & Bluetoothctl, [`sxhkd/bluetooth.sh`](sxhkd/bluetooth.sh).
 - Bash script, [`bspwm/launch.sh`](bspwm/launch.sh) which optimizes programs for specific monitor resolutions. Every time the BSPWM launches (every boot), this script checks which display is now active using xrandr & then creates symbolic links to configuration files for the corresponding resolution. `.builtin` files are for 2880x1800 14" & `.external` files are for 1920x1080 24".
 
-<h2>:bulb: Personal Suggestions</h2>
+## :bulb: Personal Suggestions
 
 - For newcomers to Linux, I suggest picking the Debian Stable. But no matter which distributive you pick, first read about how to not break it, before using.
 - Before starting to develop a custom Linux environment like mine, I recommend checking [**awesome-ricing**](https://github.com/fosslife/awesome-ricing) to get to know what software is used for custom environments.
@@ -64,6 +64,6 @@
 ---
 
 > [!IMPORTANT]
-> **There is no install script for these dotfiles in this repository. But feel free to steal some parts/ideas of my build for your own one.**
+> **There is no install script for these dotfiles in this repository. But feel free to take some parts/ideas of my build for your own one.**
 
 <h3 align=center>If you found this repository helpful, please give it a :star:</h3>
