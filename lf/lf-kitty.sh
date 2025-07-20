@@ -14,4 +14,4 @@ if [ -f "$tmp" ]; then
 		fi
 	fi
 fi
-$HOME/.config/lf/lf-kitty-clean
+$HOME/.config/lf/lf-kitty-clean.sh

@@ -1,6 +1,6 @@
-#Basic settings
-set previewer ~/.config/lf/lf-kitty-preview
-set cleaner ~/.config/lf/lf-kitty-clean
+# Basic settings
+set previewer ~/.config/lf/lf-kitty-preview.sh
+set cleaner ~/.config/lf/lf-kitty-clean.sh
 set icons true
 set history on
 set truncatechar "…"
@@ -87,7 +87,7 @@ cmd goToPrev %{{
 
 cmd disablepreview %{{
    lf -remote "send $id set preview!"
-   ~/.config/lf/lf-kitty-clean
+   ~/.config/lf/lf-kitty-clean.sh
 }}
 
 # Credit: github.com/ericmurphyxyz/dotfiles/blob/xorg
