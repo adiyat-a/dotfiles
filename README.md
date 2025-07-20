@@ -46,7 +46,7 @@
 \*\* - In order to use Nerd Font with lemonbar, I use a fork of lemonbar from GitLab with XFT support. Succade is a lemonbar manager that helps configure lemonbar easier, without a Bash script.
 
 > [!NOTE]
-> **Wallpapers are from the wallhaven website.**
+> **Wallpapers are from the "wallhaven" website.**
 
 </p>
 
