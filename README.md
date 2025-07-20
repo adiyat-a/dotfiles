@@ -11,11 +11,11 @@
 
 ![System Info](.github/screenshots/screenshot_1.png)
 
-> [!NOTE]
-> **For more Screenshots, see [SCREENSHOTS.md](SCREENSHOTS.md).**
-
 > [!IMPORTANT]
 > **Most of the Bash scripts I use are in [`bash/`](bash/), [`bspwm/`](bspwm/), [`lf/`](lf/), [`rofi/`](rofi/), [`succade/`](succade/), [`sxhkd/`](sxhkd/).**
+
+> [!NOTE]
+> **For more Screenshots, see [SCREENSHOTS.md](SCREENSHOTS.md).**
 
 ## :green_book: About
 
