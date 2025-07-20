@@ -12,10 +12,13 @@
 ![System Info](.github/screenshots/screenshot_1.png)
 
 > [!IMPORTANT]
+> **There are no install (reproduce) scripts in this repository. But feel free to take some parts/ideas of my config for your own one.**
 > **Most of the Bash scripts are in [`bash/`](bash/), [`bspwm/`](bspwm/), [`lf/`](lf/), [`rofi/`](rofi/), [`succade/`](succade/), [`sxhkd/`](sxhkd/).**
+> **Neovim dotfiles are stored in another repository ([**atom-vim**](https://github.com/bearbaka/atom-vim)).**
 
 > [!NOTE]
 > **For more Screenshots, see [SCREENSHOTS.md](SCREENSHOTS.md).**
+> **Wallpapers are from the "wallhaven" website.**
 
 ## :green_book: About
 
@@ -44,13 +47,7 @@
 
 \* - I use Neovim with my own configuration, no forks.<br>
 
-> [!IMPORTANT]
-> **Neovim dotfiles are stored in another repository ([**atom-vim**](https://github.com/bearbaka/atom-vim)).**
-
 \*\* - In order to use Nerd Font with lemonbar, I use a fork of lemonbar from GitLab with XFT support. Succade is a lemonbar manager that helps configure lemonbar easier, without a Bash script.
-
-> [!NOTE]
-> **Wallpapers are from the "wallhaven" website.**
 
 </p>
 
@@ -61,8 +58,6 @@
 - Bash script, [`bspwm/launch.sh`](bspwm/launch.sh), optimizes programs for specific monitor resolutions. Every time the BSPWM launches (every boot), this script checks which display is now active using xrandr & then creates symbolic links to configuration files for the corresponding resolution. `.builtin` files are for 2880x1800 14" & `.external` files are for 1920x1080 24".
 - Succade configured with Nerd Font & Bash scripts that use Succade's API to underline & change the foreground of text for personal needs. Examples: [`workspaces.sh`](succade/workspaces.sh), [`battery.sh`](succade/battery.sh), [`bluetooth.sh`](succade/bluetooth.sh).
 - Bash script, [`rofi/powermenu.sh`](rofi/powermenu.sh) - custom rofi menu for power control.
-> [!IMPORTANT]
-> **There is no install script for these dotfiles in this repository. But feel free to take some parts/ideas of my build for your own one.**
 
 ## :bulb: Personal Suggestions
 
