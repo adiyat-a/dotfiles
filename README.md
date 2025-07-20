@@ -14,6 +14,9 @@
 > [!NOTE]
 > **For more Screenshots, see [SCREENSHOTS.md](SCREENSHOTS.md).**
 
+> [!IMPORTANT]
+> **Most of the Bash scripts I use are in [`bash/`](bash/), [`bspwm/`](bspwm/), [`lf/`](lf/), [`rofi/`](rofi/), [`succade/`](succade/), [`sxhkd/`](sxhkd/) directories.
+
 ## :green_book: About
 
 - OS: [**`Debian Bookworm`**](https://www.debian.org/releases/bookworm/)
