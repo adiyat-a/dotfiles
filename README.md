@@ -55,7 +55,8 @@
 
 - Automatic Bluetooth pairing & reconnection using Bash scripting & Bluetoothctl, [`sxhkd/bluetooth.sh`](sxhkd/bluetooth.sh).
 - Bash script, [`sxhkd/kitty.sh`](sxhkd/kitty.sh), creates new terminal window with working directory from the currently focused terminal window, if present.
-- Bash script, [`bspwm/launch.sh`](bspwm/launch.sh), optimizes programs for specific monitor resolutions. Every time the BSPWM launches (every boot), this script checks which display is now active using xrandr & then creates symbolic links to configuration files for the corresponding resolution. `.builtin` files are for 2880x1800 14" & `.external` files are for 1920x1080 24".
+* Bash script, [`bspwm/launch.sh`](bspwm/launch.sh), optimizes programs for specific monitor resolutions.
+    * Every time the BSPWM launches (every boot), checks which display is now active using xrandr & then creates symbolic links to configuration files for the corresponding resolution. `.builtin` files are for 2880x1800 14" & `.external` files are for 1920x1080 24".
 - Succade configured with Nerd Font & Bash scripts that use Succade's API to underline & change the foreground of text for personal needs. Examples: [`workspaces.sh`](succade/workspaces.sh), [`battery.sh`](succade/battery.sh), [`bluetooth.sh`](succade/bluetooth.sh).
 - Bash script, [`rofi/powermenu.sh`](rofi/powermenu.sh) - custom rofi menu for power control.
 
