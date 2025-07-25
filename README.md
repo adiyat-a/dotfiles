@@ -51,7 +51,7 @@
 
 </p>
 
-## :stars: Key Features
+## :rocket: Key Features
 
 - Automatic Bluetooth pairing & reconnection using Bash scripting & Bluetoothctl, [`sxhkd/bluetooth.sh`](sxhkd/bluetooth.sh).
 - Bash script, [`sxhkd/kitty.sh`](sxhkd/kitty.sh), creates new terminal window with working directory from the currently focused terminal window, if present.
