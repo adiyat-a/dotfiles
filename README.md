@@ -2,10 +2,10 @@
 
 <p align="center">
 
-<img alt="GitHub Created At" src="https://img.shields.io/github/created-at/adiyat-a/dotfiles?style=for-the-badge">
-<img alt="GitHub Release" src="https://img.shields.io/github/v/release/adiyat-a/dotfiles?sort=date&display_name=release&style=for-the-badge">
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/adiyat-a/dotfiles?style=for-the-badge">
-<img alt="GitHub License" src="https://img.shields.io/github/license/adiyat-a/dotfiles?style=for-the-badge">
+<img alt="GitHub Created At" src="https://img.shields.io/github/created-at/adiyat-abubakirov/dotfiles?style=for-the-badge">
+<img alt="GitHub Release" src="https://img.shields.io/github/v/release/adiyat-abubakirov/dotfiles?sort=date&display_name=release&style=for-the-badge">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/adiyat-abubakirov/dotfiles?style=for-the-badge">
+<img alt="GitHub License" src="https://img.shields.io/github/license/adiyat-abubakirov/dotfiles?style=for-the-badge">
 
 </p>
 
@@ -15,11 +15,11 @@
 >
 > - **There are no install (reproduce) scripts in this repository. But feel free to take some parts/ideas of my config for your own one.**
 > - **Most of the Bash scripts are in [`bash/`](bash/), [`bspwm/`](bspwm/), [`lf/`](lf/), [`rofi/`](rofi/), [`succade/`](succade/), [`sxhkd/`](sxhkd/).**
-> - **Neovim dotfiles are stored in another repository ([**atom-vim**](https://github.com/adiyat-a/atom-vim)).**
+> - **Neovim dotfiles are stored in another repository ([**atom-vim**](https://github.com/adiyat-abubakirov/atom-vim)).**
 
 > [!NOTE]
 >
-> - **For more screenshots, see [Screenshots](https://github.com/adiyat-a/dotfiles/wiki/Screenshots).**
+> - **For more screenshots, see [Screenshots](https://github.com/adiyat-abubakirov/dotfiles/wiki/Screenshots).**
 > - **Wallpapers are from the "wallhaven" website.**
 
 ## :green_book: About
