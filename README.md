@@ -13,13 +13,13 @@
 
 > [!IMPORTANT]
 >
-> - **There are no install (reproduce) scripts in this repository. But feel free to take some parts/ideas of my config for your own one.**\
-> - **Most of the Bash scripts are in [`bash/`](bash/), [`bspwm/`](bspwm/), [`lf/`](lf/), [`rofi/`](rofi/), [`succade/`](succade/), [`sxhkd/`](sxhkd/).**\
+> - **There are no install (reproduce) scripts in this repository. But feel free to take some parts/ideas of my config for your own one.**
+> - **Most of the Bash scripts are in [`bash/`](bash/), [`bspwm/`](bspwm/), [`lf/`](lf/), [`rofi/`](rofi/), [`succade/`](succade/), [`sxhkd/`](sxhkd/).**
 > - **Neovim dotfiles are stored in another repository ([**atom-vim**](https://github.com/adiyat-a/atom-vim)).**
 
 > [!NOTE]
 >
-> - **For more screenshots, see [Screenshots](https://github.com/adiyat-a/dotfiles/wiki/Screenshots).**\
+> - **For more screenshots, see [Screenshots](https://github.com/adiyat-a/dotfiles/wiki/Screenshots).**
 > - **Wallpapers are from the "wallhaven" website.**
 
 ## :green_book: About
